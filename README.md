@@ -19,7 +19,11 @@ I used the 2014-2017 twitter data that provided by [Political Twitter Archive](h
 
 # Analysis
 
-# Interactive Visualization of Topic Changes 
+I briefly explored the usage of the twitter of both presidents and processed content of tweets with NLTK to explore aggregate text statistics of the speeches and visualize some of their properties. Also, I analyzed the relationships between the properties of the tweets. Lastly, I used Latent Dirichlet allocation model to find the political concerns change between the President Obama’s last 10 Months of presidency and President Trump’s first 10 months of presidency in twitter in order to match to the actual changes of political concerns between two presidents in the real world. Please see the [analysis report](https://github.com/jimxx1995/PresidentsTwitterPoliticalIssues/blob/master/report.pdf) for more details.
+
+# Interactive Visualization of Political Concerns of Presidents in Twitter
+- [President Obama Political Concerns Visualization](https://cdn.rawgit.com/jimxx1995/PresidentsTwitterPoliticalIssues/9b318aa7/fig/ldaobama.html)
+- [President Trump Political Concerns Visualization](https://cdn.rawgit.com/jimxx1995/PresidentsTwitterPoliticalIssues/9b318aa7/fig/ldatrump.html)
 
 # Declaration
 This project is an updated version of a project that I've done in UC Berkeley. This project only contains my part of work. I also updated with a data analysis report.
