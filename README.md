@@ -10,9 +10,8 @@ concerns by analyzing tweets.
 
 # Introduction
 The purpose of the project is analyzing the Twitter behaviors of Donald Trump and Barack Obama
-and comparing their Twitter behaviors to what they do in the government. We will explore their
-tweets by a Natural Language Processing approch, and find out their characteristics. We will
-compare their tweets to find the changes of political concerns.
+and comparing their Twitter behaviors to what they do in the government. Exploring their
+tweets by a Natural Language Processing approch, and find out their characteristics. Eomparing their tweets to find the changes of political concerns.
 
 # Data Source
 I used the 2014-2017 twitter data that provided by [Political Twitter Archive](http://www.trumptwitterarchive.com/)
