@@ -1,11 +1,11 @@
 # Relationships Between Presidents Twitter and Political Issues
 
-Twitter is one of the most popular social media in U.S. and used by influential politicians
+Twitter is one of the most popular social media in the U.S. and used by influential politicians
 including US presidents. Twitter has been proven to be a tool to predict the real world. There
-are many researches on the relationship between Twitter and stock market. The most famous
+are many kinds of research on the relationship between Twitter and the stock market. The most famous
 study is Twitter mood predicts the stock market by J Bollen which has been cited more than
 3000 times. In this project, we sought to answer a question: Do politicians’ tweets match to their
-real-life behaviors? With the answer of this question, we can forecast the changes of political
+real-life behaviors? With the answer to this question, we can forecast the changes in political
 concerns by analyzing tweets.
 
 # Introduction
@@ -18,7 +18,7 @@ I used the 2014-2017 twitter data that provided by [Political Twitter Archive](h
 
 # Analysis
 
-I briefly explored the usage of the twitter of both presidents and processed content of tweets with NLTK to explore aggregate text statistics of the speeches and visualize some of their properties. Also, I analyzed the relationships between the properties of the tweets. Lastly, I used Latent Dirichlet allocation model to find the political concerns change between the President Obama’s last 10 Months of presidency and President Trump’s first 10 months of presidency in twitter in order to match to the actual changes of political concerns between two presidents in the real world. Please see the [analysis report](https://github.com/jimxx1995/PresidentsTwitterPoliticalIssues/blob/master/report.pdf) for more details.
+I briefly explored the usage of the twitter of both presidents and processed content of tweets with NLTK to explore aggregate text statistics of the speeches and visualize some of their properties. Also, I analyzed the relationships between the properties of the tweets. Lastly, I used Latent Dirichlet allocation model to find the political concerns change between the President Obama’s last 10 Months of the presidency and President Trump’s first 10 months of the presidency in twitter in order to match to the actual changes of political concerns between two presidents in the real world. Please see the [analysis report](https://github.com/jimxx1995/PresidentsTwitterPoliticalIssues/blob/master/report.pdf) for more details.
 
 # Interactive Visualization of Political Concerns of Presidents in Twitter
 - [President Obama Political Concerns Visualization](https://cdn.rawgit.com/jimxx1995/PresidentsTwitterPoliticalIssues/9b318aa7/fig/ldaobama.html)
